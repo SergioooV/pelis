@@ -3,3 +3,7 @@ site_name: My Docs
 markdown extensions:
   - attr_list
   - def_list
+
+theme: psinder
+pages:
+- Home: index.md
