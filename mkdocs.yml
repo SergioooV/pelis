@@ -4,3 +4,7 @@ markdown extensions:
   - attr_list
   - def_list
 
+theme: ivory
+
+copyright: Copyright &copy; 2002 - 2021 Sergio Villacampa
+
